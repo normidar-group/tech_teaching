@@ -15,7 +15,7 @@
   - [字面量和计算](/chinese/lessons/lesson2/4_literal_calculate.md)
   - [if分支](/chinese/lessons/lesson2/5_if.md)
 - lesson3
-  - [定义和赋值](/chinese/lessons/lesson3/variable.md) (用了AI生成，还没改)
+  - [定义和赋值](/chinese/lessons/lesson3/variable.md) (Edited !!!!! ⭐️⭐️ !!!!!)
   - [循环](/chinese/lessons/lesson3/loop.md) (用了AI生成，还没改)
   - 数组
 - 第四课
