@@ -1,3 +1,5 @@
+[日本語はこちらへ](/docs/ja.md)
+
 # 从零到精髓
 
 ## 目录
@@ -16,7 +18,7 @@
   - [if分支](/chinese/lessons/lesson2/5_if.md)
 - lesson3
   - [定义和赋值](/chinese/lessons/lesson3/variable.md) (有更新 !!!!! ⭐️⭐️ !!!!!)
-  - [数组和字典（collection）](/chinese/lessons/lesson3/collection.md) 
+  - [数组和字典（collection）](/chinese/lessons/lesson3/collection.md)  (有更新 !!!!! ⭐️⭐️ !!!!!)
   - 数组
 - 第四课
   - null
