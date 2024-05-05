@@ -2,19 +2,19 @@
 
 ## 目录
 
-- 第一课
-  - [前言](/chinese/lessons/第一课/0_前言.md)
-  - [Github](/chinese/lessons/第一课/1_Github.md)
-  - [Markdown](/chinese/lessons/第一课/2_Markdown.md)
-  - [命令](/chinese/lessons/第一课/3_Command.md)
-  - [VSCode](/chinese/lessons/第一课/4_VSCode.md)
-- 第二课
-  - [Github密匙](/chinese/lessons/第二课/1_github_key.md)
-  - [Git与VSCode](/chinese/lessons/第二课/2_git_vscode.md)
-  - [代码的几个概念](/chinese/lessons/第二课/3_coding_concept.md)
-  - [字面量和计算](/chinese/lessons/第二课/4_literal_calculate.md)
-  - [if分支](/chinese/lessons/第二课/5_if.md)
-- 第三课
+- lesson1
+  - [前言](/chinese/lessons/lesson1/0_前言.md)
+  - [Github](/chinese/lessons/lesson1/1_Github.md)
+  - [Markdown](/chinese/lessons/lesson1/2_Markdown.md)
+  - [命令](/chinese/lessons/lesson1/3_Command.md)
+  - [VSCode](/chinese/lessons/lesson1/4_VSCode.md)
+- lesson2
+  - [Github密匙](/chinese/lessons/lesson2/1_github_key.md)
+  - [Git与VSCode](/chinese/lessons/lesson2/2_git_vscode.md)
+  - [代码的几个概念](/chinese/lessons/lesson2/3_coding_concept.md)
+  - [字面量和计算](/chinese/lessons/lesson2/4_literal_calculate.md)
+  - [if分支](/chinese/lessons/lesson2/5_if.md)
+- lesson3
   - [定义和赋值](/chinese/lessons/lesson3/variable.md) (用了AI生成，还没改)
   - [循环](/chinese/lessons/lesson3/loop.md) (用了AI生成，还没改)
   - 数组
