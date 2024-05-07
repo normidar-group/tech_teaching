@@ -19,7 +19,7 @@
 - lesson3
   - [定义和赋值](/chinese/lessons/lesson3/1_variable.md) (有更新 !!!!! ⭐️⭐️ !!!!!)
   - [数组](/chinese/lessons/lesson3/2_collection_list.md)  (有更新 !!!!! ⭐️⭐️ !!!!!)
-  - 数组
+  - [字典](/chinese/lessons/lesson3/3_collection_map.md) (编写中。。。)
 - 第四课
   - null
   - 函数
