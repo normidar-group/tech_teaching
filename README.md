@@ -2,7 +2,7 @@
 
 # 从零到精髓
 
-## 目录
+## 主线课程目录
 
 - lesson1
   - [前言](/chinese/lessons/lesson1/0_前言.md)
@@ -23,3 +23,20 @@
 - 第四课
   - null
   - 函数
+
+
+
+---
+
+## 小目标
+
+- 按照各知识点创建不同的书册
+  - Markdown
+  - Git Command
+  - Github
+  - Command Line
+  - Flutter
+  - Programming(Dart main)
+  - App Development(CI/CD)
+  - Server (Port/Domain/FTP/Raspberry Pi)
+  - AI (Machine Learning/Deep Learning)
