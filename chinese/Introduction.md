@@ -13,16 +13,34 @@
 
 内容分为以下几项：
 
-- Markdown (写文章时用的格式，这项目也是用Markdown写的)
-- Command （命令行）
-  - Git（版本管理工具）
-- Github (在线版本管理工具，来自世界的智慧在这里，称为“开源”)
-- VSCode (一个打代码的工具)
-- Coding （打代码的技术）
+- Markdown (写文章时用的格式，这项目也是用Markdown写的)　难度：⭐
+- Command （命令行）　难度：⭐⭐
+- Git（版本管理工具） 难度：⭐⭐⭐⭐
+- Github (在线版本管理工具)　难度：⭐⭐⭐
+- VSCode (文本编辑工具)　难度：⭐⭐
+- Coding （打代码的技术）　难度：⭐⭐⭐⭐⭐
 
 虽然有很多想写的，但现在最好尽可能精简。
 
-## 各课程
 
-和普通文案工作一样，程序员也时不时要写和编辑文本，
+## 各课的内容
 
+各课基本的格式为如下：
+
+1. 内容解释，说明
+2. 测试题目
+3. 补充内容
+4. 杂谈
+
+其中「补充内容」和「杂谈」不一定每一课都有。
+
+
+
+
+### 以后可能会扩充的内容
+
+
+- Flutter
+- App Development(CI/CD)
+- Server (Port/Domain/FTP/Raspberry Pi)
+- AI (Machine Learning/Deep Learning)
