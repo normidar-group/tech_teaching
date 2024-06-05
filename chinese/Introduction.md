@@ -16,9 +16,9 @@
 - Markdown (写文章时用的格式，这项目也是用Markdown写的)　难度：⭐
 - Command （命令行）　难度：⭐⭐
 - Git（版本管理工具） 难度：⭐⭐⭐⭐
-- [Github (在线版本管理工具)　难度：⭐⭐⭐](/chinese/books/Github/Introduction.md)
+- [Github (在线版本管理工具)　难度：⭐⭐⭐](./books/Github/Introduction.md)
 - VSCode (文本编辑工具)　难度：⭐⭐
-- Coding （打代码的技术）　难度：⭐⭐⭐⭐⭐
+- [Coding （打代码的技术）　难度：⭐⭐⭐⭐⭐](./books/Coding/Introduction.md)
 
 虽然有很多想写的，但现在最好尽可能精简。
 
